@@ -6,7 +6,7 @@ This task was part of a project at the end of High Performance Conputing Laborat
 For any program, if there are many segments of the code that can be run in parallel, considerable speed up can be achieved by running the code on a GPU as opposed to CPU.
 
 ### Algorithm to optimize
-Encoding voxel of data using Exponential Golomb encoding for lossless compression usingLorenzo Predictor.
+Encoding voxel of data using Exponential Golomb encoding for lossless compression using Lorenzo Predictor.
 
 [1] P. Lindstrom et al. , "Fast and Efficient Compression of Floating-Point Data", *IEEE Transactions on Visualization and Computer Graphics 12(5):1245-50 · September 2006*
 
